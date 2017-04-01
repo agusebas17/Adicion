@@ -5,7 +5,7 @@
 **Analisis**: Lo primero que se debe realizar es la declaracion de los numeros enteros,de esta manera el usuario ingresa ambos numeros. Para luego poder sumarlo, y luego, imprimir la suma.
 
 
-**Algoritmo**:
+**Algoritmo**: 
 
 
 #include <iostream>
