@@ -1,7 +1,13 @@
 # Adicion
 **Enunciado**: Relizar pasos a seguir para realizar una suma de  dos numero enteros.
+
+
 **Analisis**: Lo primero que se debe realizar es la declaracion de los numeros enteros,de esta manera el usuario ingresa ambos numeros. Para luego poder sumarlo, y luego, imprimir la suma.
+
+
 **Algoritmo**: :::c++
+
+
 #include <iostream>
        int main () {
 	     int na,nb,nc;			/* Declaracion de variables enteras */
